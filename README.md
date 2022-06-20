@@ -70,3 +70,4 @@ public class PlayerController : MonoBehaviour
 ## Output:
 
 ## Result:
+Thus, using C# program to redirecting the scene in unity engine has implemented successfully
