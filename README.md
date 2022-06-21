@@ -68,6 +68,9 @@ public class PlayerController : MonoBehaviour
 }
 ```
 ## Output:
-
+## After the Ball hit the cube:
+![1](https://user-images.githubusercontent.com/75235090/174736481-3a6c8f28-b7e4-484f-9e17-175e06c97561.png)
+## Redirected Scene:
+![2](https://user-images.githubusercontent.com/75235090/174736677-b1883d1c-351f-4eae-afca-44e7c70d41a0.png)
 ## Result:
 Thus, using C# program to redirecting the scene in unity engine has implemented successfully
