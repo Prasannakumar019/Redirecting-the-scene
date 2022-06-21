@@ -1,4 +1,6 @@
-# Redirecting-the-scene
+## EX NO:7
+## DATE:16.6.22
+# <p align="center"> Redirecting-the-scene
 
 ## Aim:
 To Redirecting the scene in the unity engine.
